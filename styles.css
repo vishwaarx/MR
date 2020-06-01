@@ -1,0 +1,180 @@
+/****************************************tag selecter*********************************/
+h1 {
+  margin: 50px;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+}
+
+h2 {
+  color: #66BFBF
+}
+
+p {
+  color: #40514E;
+  font-family: 'Crimson Text', serif;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+hr {
+  border-style: dotted none none;
+  height: 0px;
+  width: 6%;
+  border-width: 10px;
+  color: #888888;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+a{color:  #66BFBF;
+  font-family: 'Crimson Text', serif;
+  margin: 10px 20px 10px 20px;
+
+text-decoration: none;
+font-size: 1.5rem;}
+a:hover{color: #EAF6F6;
+}
+/*****************************************class selecter********************/
+.top-container {
+  background-color: #abf0e9;
+  color: #66BFBF;
+
+}
+
+.skill {
+  border-radius: 50%;
+  height: auto;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.quick {
+  height: 150px;
+  float: right;
+}
+
+.btn {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #1E62D0);
+  background-image: -moz-linear-gradient(top, #66BFBF, #1E62D0);
+  background-image: -ms-linear-gradient(top, #66BFBF, #1E62D0);
+  background-image: -o-linear-gradient(top, #66BFBF, #1E62D0);
+  background-image: linear-gradient(to bottom, #66BFBF, #1E62D0);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: Verdana;
+  font-size: 20px;
+  font-weight: 50;
+  padding: 20px;
+  box-shadow: 1px 1px 20px 0px #000000;
+  -webkit-box-shadow: 1px 1px 20px 0px #000000;
+  -moz-box-shadow: 1px 1px 20px 0px #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  border: solid #337FED 1px;
+  background: #1E62D0;
+  background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: linear-gradient(to bottom, #1E62D0, #3D94F6);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.bottom-container{margin: 75px 0 0 0;
+  background-color:#abf0e9;
+width: auto;
+padding-bottom: 10px;
+padding-top: 75px;}
+
+.copyrights{color:#EAF6F6;
+font-size: 0.75rem;
+padding-top: 20px;}
+/*******************************id selecter*****************************/
+#bottom-cloud {
+  position: relative;
+right: 90px;
+bottom: 370px;
+
+  width: 200px;
+  height: auto;
+}
+
+#top-cloud {
+  position: relative;
+  left: 380px;
+  top: 80px;
+  margin-top: 50px;
+  width: 200px;
+  height: auto;
+}
+
+#vishwaa-pic {
+  height: 250px;
+  width: auto;
+}
+
+#logo-inside {
+  height: 50px;
+  width: auto;
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
+#font2 {
+  font-family: 'Merienda One', cursive;
+  font-size: 2.5rem;
+  margin: 0 auto 0 auto;
+}
+
+#font {
+  font-family: 'Norican', cursive;
+  font-size: 5.625rem;
+}
+
+#LEADERSHIP {
+  font-size: 1.8rem;
+}
+
+#lead {
+  float: left;
+}
+
+#quick-le {
+  font-size: 1.8rem;
+}
+
+#my-s {
+  text-decoration: underline;
+}
+
+#get-in-c {
+  font-size: 1.9rem;
+}
+#name{font-family: 'Architects Daughter', cursive;
+font-size: 1.9rem;}
+#mountain-img{position: relative;
+right: 90px;}
